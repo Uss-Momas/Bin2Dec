@@ -6,11 +6,11 @@ The Purpose of Bin2Dec is to provide practice and understanding of how binary ca
 
 ## User Stories
 - [x] User can enter up to 8 digits in the input fiel
-- [] User must be notified if anything other than 1 and 0 is present
-- [] User view the results in a single output field containing the decimal (base 10) of the binary number that was entered
+- [ ] User must be notified if anything other than 1 and 0 is present
+- [ ] User view the results in a single output field containing the decimal (base 10) of the binary number that was entered
 
 ## TO DO
-- [] Add a simple UI
+- [ ] Add a simple UI
 
 ## Tools
 1. **Java SE**: JDK 11
