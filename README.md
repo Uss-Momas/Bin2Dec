@@ -5,4 +5,4 @@
 - The Purpose of Bin2Dec is to provide practice and understanding of how binary calculations happens.
 
 ## Tools
-- Java: JDK 11
+- Java SE: JDK 11
