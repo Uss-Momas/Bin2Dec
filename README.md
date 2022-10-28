@@ -14,6 +14,13 @@ The Purpose of Bin2Dec is to provide practice and understanding of how binary ca
 
 ## Tools
 1. **Java SE**: JDK 11
+2. **Editor**: VS Code
+
+## How to build it
+- Open the terminal in the folder of the project
+- cd **src** : entering the **src** folder 
+- int the **src** folder just type `javac Main.java`
+- run:  `java Main.class`
 
 ## Contribuite
 - Feel Free to contribute with more user stories and to do's
