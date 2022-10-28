@@ -20,7 +20,9 @@ The Purpose of Bin2Dec is to provide practice and understanding of how binary ca
 - Open the terminal in the folder of the project
 - cd **src** : entering the **src** folder 
 - int the **src** folder just type `javac Main.java`
-- run:  `java Main.class`
+- run:  `java Main.java`
+
+**NOTE**: You must have the Java JDK in the path of your system
 
 ## Contribuite
 - Feel Free to contribute with more user stories and to do's
